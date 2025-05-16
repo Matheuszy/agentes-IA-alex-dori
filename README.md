@@ -31,8 +31,8 @@ Este projeto nasceu da sua vontade de oferecer uma experiência de aprendizado e
 
 1.  **Clone o Código:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-    cd seu-projeto
+    git clone git@github.com:Matheuszy/agentes-IA-alex-dori.git
+    
     ```
     *(Não se esqueça de substituir o link pelo seu repositório!)*
 
